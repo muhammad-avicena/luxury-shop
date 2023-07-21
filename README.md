@@ -33,7 +33,8 @@ Interested to have collaboration ? Find me on:
 - External/Internal Source
   - Icon
   - Image
-
+  
+ NB*: This project is made with HTML, CSS, JS (100% barebone), I don't use any css framework or external libraries - only use external font/icon.
 
 ## HOW TO SET UP 📰
 You will need a github account to clone this repository, make sure you're connected to github.
